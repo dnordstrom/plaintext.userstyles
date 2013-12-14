@@ -13,3 +13,7 @@ https://github.com/dnordstrom/userstyles.plaintext
 To include more extensions, or to exclude other domains or URLs, you can customize the `@-moz-document` regular expression.
 
 The stylesheet uses the **font and font size** specified in your preferences---in Firefox, these can be changed at Preferences > Content > Fonts & Colors > Advanced > Monospace. (I'm personally using Fira Mono at 14px.)
+
+### Usage
+
+Use the [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) extension---or add the CSS to your [userChrome.css file](http://kb.mozillazine.org/index.php?title=UserChrome.css).
