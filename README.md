@@ -19,3 +19,7 @@ The stylesheet uses the **font and font size** specified in your preferences---i
 ### Usage
 
 Use the [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) extension&mdash;or add the CSS to your [userChrome.css file](http://kb.mozillazine.org/index.php?title=UserChrome.css).
+
+### Mankind’s Precious
+
+Mankind’s Precious is a work-in-progress collection of user styles created for Mozilla Firefox to increase the usability and readability of sites and apps. Visually, they are inspired by Solarized, Mozilla, and Firefox OS.
