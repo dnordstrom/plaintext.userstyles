@@ -1,6 +1,6 @@
-## Mankind's Precious · Plain Text & Friends
+## Mankind’s Precious User Styles
 
-### User Styles Powered by Solarized
+### Plain Text, Solarized
 
 Firefox user styles for plain text and friends, using a couple of colors from the **dark [Solarized](https://github.com/altercation/solarized) palette**.
 
@@ -18,4 +18,4 @@ The stylesheet uses the **font and font size** specified in your preferences---i
 
 ### Usage
 
-Use the [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) extension---or add the CSS to your [userChrome.css file](http://kb.mozillazine.org/index.php?title=UserChrome.css).
+Use the [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) extension&mdash;or add the CSS to your [userChrome.css file](http://kb.mozillazine.org/index.php?title=UserChrome.css).
