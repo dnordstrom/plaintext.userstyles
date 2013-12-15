@@ -56,4 +56,12 @@
     max-width: 48em !important;
     padding: 1em 1.5em !important;
   }
+
+  /**
+   * Invert colors for highlighted text
+   */
+  ::-moz-selection {
+    background: #93a1a1 !important;
+    color: #002B36 !important;
+  }
 }
