@@ -44,7 +44,7 @@
     /**
      * Increase leading
      */
-    line-height: 1.45;
+    line-height: 1.45 !important;
   }
 
   /**
