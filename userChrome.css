@@ -22,7 +22,7 @@
  * 
  * https://github.com/dnordstrom/userstyles.plaintext
  */
-@-moz-document regexp("http?://(?!(github\\.com/)|(www\\.github\\.com/)).+(\\.|:)(text|txt|markdown|md|mmd)") {
+@-moz-document regexp("http?://(?!(github\\.com/)|(www\\.github\\.com/)).+(\\.|:)(text|txt|markdown|md|mmd)(\\.dark|dark|-dark)*") {
   html,
   body,
   pre {
