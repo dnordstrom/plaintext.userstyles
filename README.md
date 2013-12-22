@@ -1,4 +1,4 @@
-## Mankind’s Precious User Styles
+## Mankind's Precious User Styles
 
 ### Plain Text, Solarized
 
