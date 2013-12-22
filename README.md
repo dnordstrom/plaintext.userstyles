@@ -18,7 +18,7 @@ The stylesheet uses the **font and font size** specified in your preferences---i
 
 ### Usage
 
-Use the [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) extension&mdash;or add the CSS to your [userChrome.css file](http://kb.mozillazine.org/index.php?title=UserChrome.css).
+Use the [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) extension to install [the styles on userstyles.org](http://userstyles.org/styles/96333/mankind-s-precious-plain-text)&mdash;or add the CSS to your [userChrome.css file](http://kb.mozillazine.org/index.php?title=UserChrome.css).
 
 ### About Mankind’s Precious
 
