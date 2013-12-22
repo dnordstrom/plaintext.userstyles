@@ -1,13 +1,16 @@
 /**
- * @overview  Mankind's Precious Plain Text User Styles
- * @author    0.1.0
- * @version   L. Daniel Nordstrom <d@mrnordstrom.com>
- * @license   MPL 2.0
+ * userChrome.css
+ *   Plain Text User Styles
+ *
+ * Version · 0.0.1
+ * Author  · L. D. Nordstrom <d@mrnordstrom.com>
+ * License · MPL 2.0
  * 
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
  */
+@namespace url(http://www.w3.org/1999/xhtml);
 
 /**
  * Use the styles for ".txt," ".md," and related URLs, and URLs ending

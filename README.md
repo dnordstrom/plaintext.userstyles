@@ -2,7 +2,7 @@
 
 ### Plain Text, Solarized
 
-Firefox user styles for plain text and friends, using a couple of colors from the **dark [Solarized](https://github.com/altercation/solarized) palette**.
+Firefox user styles for plain text, using a couple of colors from the **[Solarized](https://github.com/altercation/solarized) palette**.
 
 The styles are **included** on ".txt," ".md," and related URLs, and URLs ending with ":<format>" or ".<format>". This allows **manual activation**---the location hash can for instance be used as follows to enable the stylesheet while browsing the introduction of an article:
 
